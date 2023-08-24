@@ -1,8 +1,12 @@
-# React + Vite
+Steps to install the project 
+1) Download the zip file , extract it .
+2) Type "npm install" to install all the node modules
+3) Type "npm run dev" to start the application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Frontend Deployed URL : https://joshua-omnify-assignment.netlify.app/
 
-Currently, two official plugins are available:
+Backend Deployed URL  : https://omnify-assignment-joshua14.onrender.com/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Steps to install the backend is mentioned in the readme.md file of backend repository which is mentioned below
+
+https://github.com/R-Joshua-Sujith/omnify-assignment-backend.git
